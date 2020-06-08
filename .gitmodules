@@ -1,0 +1,6 @@
+[submodule "dl_utilities.scm"]
+	path = dl_utilities.scm
+	url = https://gist.github.com/iHdkz/9886e2c0c5b342a02c6218cd64c89549
+[submodule "86c47f5815d1536b70c2540cbd0d5576"]
+	path = 86c47f5815d1536b70c2540cbd0d5576
+	url = https://gist.github.com/iHdkz/86c47f5815d1536b70c2540cbd0d5576
